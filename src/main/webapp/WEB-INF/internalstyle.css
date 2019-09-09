@@ -1,0 +1,66 @@
+.navbar-inverse{
+    background-color: rgb(73, 20, 158);
+}
+.navbar-brand{
+    font-family: Forte;
+    font-size: 30px;
+    color: aliceblue;
+}
+.navigation{
+    font-size: 20px;
+    color: white;
+}
+
+.uploadbtn {
+    width: 100%;
+    background-color: #3897f0;
+    border: 1px solid #3897f0;
+    padding: 5px 12px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+
+  body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.primary-shadow {
+    box-shadow: 0 0 45px rgba(0, 0, 0, .3);
+}
+
+.secondary-shadow {
+    box-shadow: 0 0 25px rgba(0, 0, 0, .3);
+}
+
+.image-text-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.media-container {
+    position: relative;
+    text-align: center;
+}
+
+.top-left {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+}
+
+.top-left {
+    position: absolute;
+    top: 0px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 0px;
+    right: 0x;
+}
